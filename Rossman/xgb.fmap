@@ -1,0 +1,14 @@
+0	Store	q
+1	SchoolHoliday	q
+2	Promo	q
+3	cmp msr	q
+4	IsPromoMonth	q
+5	Year	q
+6	Month	q
+7	Day	q
+8	DayOfWeek	q
+9	WeekOfYear	q
+10	StoreType	q
+11	CompetitionOpenSinceMonth	q
+12	CompetitionDistance	q
+13	PromoOpen	q
